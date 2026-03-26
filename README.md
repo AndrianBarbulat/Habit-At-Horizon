@@ -76,53 +76,53 @@ Habit at Horizon is a mobile application that connects mentors and mentees in a 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/1.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/2.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/3.jpg" width="200" />
+  <img src="appInterfaceSampleImage/1.jpg" width="200" />
+  <img src="appInterfaceSampleImage/2.jpg" width="200" />
+  <img src="appInterfaceSampleImage/3.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/4.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/5.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/6.jpg" width="200" />
+  <img src="appInterfaceSampleImage/4.jpg" width="200" />
+  <img src="appInterfaceSampleImage/5.jpg" width="200" />
+  <img src="appInterfaceSampleImage/6.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/7.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/8.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/9.jpg" width="200" />
+  <img src="appInterfaceSampleImage/7.jpg" width="200" />
+  <img src="appInterfaceSampleImage/8.jpg" width="200" />
+  <img src="appInterfaceSampleImage/9.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/10.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/11.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/12.jpg" width="200" />
+  <img src="appInterfaceSampleImage/10.jpg" width="200" />
+  <img src="appInterfaceSampleImage/11.jpg" width="200" />
+  <img src="appInterfaceSampleImage/12.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/13.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/14.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/15.jpg" width="200" />
+  <img src="appInterfaceSampleImage/13.jpg" width="200" />
+  <img src="appInterfaceSampleImage/14.jpg" width="200" />
+  <img src="appInterfaceSampleImage/15.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/16.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/17.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/18.jpg" width="200" />
+  <img src="appInterfaceSampleImage/16.jpg" width="200" />
+  <img src="appInterfaceSampleImage/17.jpg" width="200" />
+  <img src="appInterfaceSampleImage/18.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/19.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/20.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/21.jpg" width="200" />
+  <img src="appInterfaceSampleImage/19.jpg" width="200" />
+  <img src="appInterfaceSampleImage/20.jpg" width="200" />
+  <img src="appInterfaceSampleImage/21.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/22.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/23.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/24.jpg" width="200" />
+  <img src="appInterfaceSampleImage/22.jpg" width="200" />
+  <img src="appInterfaceSampleImage/23.jpg" width="200" />
+  <img src="appInterfaceSampleImage/24.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/25.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/26.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/27.jpg" width="200" />
+  <img src="appInterfaceSampleImage/25.jpg" width="200" />
+  <img src="appInterfaceSampleImage/26.jpg" width="200" />
+  <img src="appInterfaceSampleImage/27.jpg" width="200" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/28.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/AndrianBarbulat/show-case-project/main/images/29.jpg" width="200" />
+  <img src="appInterfaceSampleImage/28.jpg" width="200" />
+  <img src="appInterfaceSampleImage/29.jpg" width="200" />
 </p>
 
 ---
@@ -131,8 +131,6 @@ Habit at Horizon is a mobile application that connects mentors and mentees in a 
 
 - [GitHub Repository](https://github.com/GuineaCoding/Habit-At-Horizon)
 - [Trello Board](https://trello.com/b/SQcFy7UX)
-- [Sprint Sheet](https://docs.google.com/spreadsheets/d/1knOeH5fnRv03mPkMEPDM3Xvji8p8PD6Q2tda0OOXmmU/edit?usp=sharing)
-- [Download APK](https://drive.google.com/file/d/1A76wRTsO-v9JEKDQSAtDmtBILAfth6mF/view?usp=sharing)
 
 ---
 
@@ -141,8 +139,6 @@ Habit at Horizon is a mobile application that connects mentors and mentees in a 
 **Andrian Barbulat**
 - Program: Higher Diploma in Computer Science
 - Institution: SETU (South East Technological University)
-- Supervisor: Michael McMahon
-
 ---
 
 © 2025 Habit at Horizon | SETU Computing Showcase
